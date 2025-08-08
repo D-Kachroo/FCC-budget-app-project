@@ -1,4 +1,4 @@
-# FCC Budget App Project – By: David Kachroo
+# Budget App Project - By: David Kachroo
 
 This public repository contains my solution for the **"Build a Budget App"** project from the **freeCodeCamp Scientific Computing with Python** certification.
 
