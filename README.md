@@ -9,13 +9,13 @@ Additionally, the `create_spend_chart` function generates a **text-based bar cha
 
 ### Features:
 - **Category Class**:
-  - Track deposits and withdrawals with optional descriptions.
-  - Enforce fund checks before withdrawals or transfers.
-  - Transfer funds between categories.
-  - Retrieve current balance.
-  - String output showing a formatted ledger and total.
+  - Tracks deposits and withdrawals with optional descriptions.
+  - Enforces fund checks before withdrawals or transfers.
+  - Transfers funds between categories.
+  - Retrieves the current balance.
+  - String output shows a formatted ledger and the total.
 - **Spending Chart**:
-  - Calculates spending percentage per category based on withdrawals.
+  - Calculates total spending for each category based on withdrawals.
   - Rounds down to the nearest 10%.
   - Displays vertical labels for category names.
   - Matches freeCodeCamp’s exact output formatting requirements.
