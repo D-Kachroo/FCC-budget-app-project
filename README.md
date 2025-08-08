@@ -5,7 +5,7 @@ This public repository contains my solution for the **"Build a Budget App"** pro
 ## Project Overview
 The `Category` class simulates budget categories (e.g., Food, Clothing, Entertainment) with deposit, withdrawal, transfer, and balance tracking. Each category maintains a ledger of transactions and supports detailed string formatting for display.
 
-Additionally, the `create_spend_chart` function generates a **text-based bar chart**, which showcases the percentage of total spending per category.
+Additionally, the `create_spend_chart` function generates a **text-based bar chart**, which shows the percentage of total spending per category.
 
 ### Features:
 - **Category Class**:
